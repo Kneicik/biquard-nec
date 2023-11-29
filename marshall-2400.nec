@@ -2,7 +2,8 @@ CM Biquad antenna for 2.4 Ghz
 CM 
 CM CM
 CE
-SY i=0.48642
+SY i=0.486
+
 SY d=0.0017
 SY a=0.021
 SY gap=4.996e-3
